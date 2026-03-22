@@ -2,3 +2,17 @@ DOMAIN-SUFFIX,ts-hnwet.cn
 DOMAIN-SUFFIX,dj0ts1x.cn
 DOMAIN-SUFFIX,jianpahuo.xyz
 DOMAIN-SUFFIX,sogaha.cn
+DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT // Added for: sf3-fe-tos.pglstatp-toutiao.com:443
+DOMAIN-SUFFIX,bytescm.com,REJECT // Added for: lf-cdn-tos.bytescm.com:443
+DOMAIN-SUFFIX,webcast-open.douyin.com,REJECT // Added for: webcast-open.douyin.com:443
+DOMAIN-SUFFIX,volccdn.com,REJECT // Added for: vod-license-m.volccdn.com:443
+DOMAIN-SUFFIX,ugdtimg.com,REJECT // Added for: pgdt.ugdtimg.com:443
+DOMAIN-SUFFIX,ctobsnssdk.com,REJECT // Added for: toblog.ctobsnssdk.com:443
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,REJECT // Added for: api-access.pangolin-sdk-toutiao1.com:443
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT // Added for: api-access.pangolin-sdk-toutiao.com:443
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,REJECT // Added for: log-api.pangolin-sdk-toutiao-b.com:443
+DOMAIN-SUFFIX,douyinpic.com,REJECT // Added for: p9-sign.douyinpic.com:443
+DOMAIN-SUFFIX,bcebos.com,REJECT // Added for: mobads-pre-config.cdn.bcebos.com:443
+DOMAIN-SUFFIX,volces.com,REJECT // Added for: mssdk.volces.com:443
+DOMAIN-SUFFIX,volces.com,REJECT // Added for: mssdk.volces.com:443
+DOMAIN-SUFFIX,sogaha.cn,REJECT // Added for: xigua.sogaha.cn:443
